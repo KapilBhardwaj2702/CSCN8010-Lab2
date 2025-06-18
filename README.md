@@ -9,3 +9,4 @@ This project explores various supervised machine learning models to predict dise
 - `Assignment-Lab#2 - Kapil Bhardwaj.ipynb` – Jupyter Notebook
 - .gitignore
 - requirements.txt
+- README.md
