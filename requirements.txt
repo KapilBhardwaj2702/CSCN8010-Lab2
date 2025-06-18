@@ -1,4 +1,4 @@
-# This file lists the required packages for the project.
+# Required Python packages for Diabetes Prediction Lab
 pandas==2.2.2
 numpy==1.26.4
 scikit-learn==1.4.2
