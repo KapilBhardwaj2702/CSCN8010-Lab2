@@ -1,5 +1,4 @@
 # CSCN8010-Lab2
-# CSCN8010-Lab2
 
 # Diabetes Prediction & Regression Models
 
